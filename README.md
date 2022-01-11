@@ -2,7 +2,7 @@
 
 ___________________________________
 
-## (1) [Supervised Classification]
+## (1) Classification (Supervised learning)
 
 ### a) []()
    - **Aim:**
@@ -10,16 +10,30 @@ ___________________________________
 ### b) []()
    - **Aim:**
 
+### c) []()
+   - **Aim:**
+
 ___________________________________
 
-## (2) [Supervised Regression]
+## (2) Regression (Supervised learning)
 
-- **Purpose:**
-- **Libraries:**
+### a) []()
+   - **Aim:**
 
+### b) []()
+   - **Aim:**
+
+### c) []()
+   - **Aim:**
 ____________________________________
 
-## (3) [Kaggle - ]()
+## (3) Time Series Analysis
 
-- **Purpose:**
-- **Purpose:**
+### a) []()
+   - **Aim:**
+
+### b) []()
+   - **Aim:**
+
+### c) []()
+   - **Aim:**
