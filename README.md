@@ -2,14 +2,15 @@
 
 ___________________________________
 
-## (1) [ZTM Classification]()
+## (1) [Supervised Classification]
 
-- **Purpose:**
-- **Libraries:**
+### a) []()
+      - **Purpose:**
+      - **Libraries:**
 
 ___________________________________
 
-## (2) [ZTM Time Series]()
+## (2) [Supervised Regression]
 
 - **Purpose:**
 - **Libraries:**
