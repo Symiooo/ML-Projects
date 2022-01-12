@@ -5,13 +5,13 @@ ___________________________________
 ## (1) Classification (Supervised learning)
 
 ### a) []()
-   - **Aim:**
+   **Aim:**
 
 ### b) []()
-   - **Aim:**
+   **Aim:**
 
 ### c) []()
-   - **Aim:**
+   **Aim:**
 
 ___________________________________
 
@@ -21,19 +21,19 @@ ___________________________________
    **Aim:** Predict the future sale price of a bulldozer, given its characteristics and previous examples of how much similar bulldozers have been sold for.
 
 ### b) []()
-   - **Aim:**
+   **Aim:**
 
 ### c) []()
-   - **Aim:**
+   **Aim:**
 ____________________________________
 
 ## (3) Time Series Analysis
 
 ### a) []()
-   - **Aim:**
+   **Aim:**
 
 ### b) []()
-   - **Aim:**
+   **Aim:**
 
 ### c) []()
-   - **Aim:**
+   **Aim:**
