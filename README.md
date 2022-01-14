@@ -4,8 +4,8 @@ ___________________________________
 
 ## (1) Classification (Supervised learning)
 
-### a) []()
-   **Aim:**
+### a) [Predicting heart disease]()
+   **Aim:** This notebook aims to predict whether a patient suffers from heart disease taking 14 attributes to determine the presence of heart disease.
 
 ### b) []()
    **Aim:**
