@@ -40,7 +40,7 @@ ____________________________________
    
 ____________________________________
 
-## (4) Natural Language Processing
+## (4) Natural Language Processing (NLP)
 
 ### a) []()
    **Aim:**
