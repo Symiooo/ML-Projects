@@ -2,7 +2,7 @@
 
 ## Fundamentals
 
-### a) [Regression Metrics (SVM, LogisticRegression, RandomForests)]()
+### a) [Regression Metrics (DecisionTree, RandomForests, AdaBoosting, LinearRegression)](https://drive.google.com/file/d/1X3O4VanZDAyYu6TxphjrV9sXZpYcgRW5/view?usp=sharing)
    **Aim:** This notebook aims to predict whether a patient suffers from heart disease taking 14 attributes to determine the presence of heart disease.
 
 ___________________________________
