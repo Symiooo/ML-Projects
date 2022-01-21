@@ -1,10 +1,15 @@
 # ML-Projects
 
+## Fundamentals
+
+### a) [Regression Metrics (SVM, LogisticRegression, RandomForests)]()
+   **Aim:** This notebook aims to predict whether a patient suffers from heart disease taking 14 attributes to determine the presence of heart disease.
+
 ___________________________________
 
 ## (1) Classification (Supervised learning)
 
-### a) [Predicting heart disease (SVM, LogisticRegression, RandomForest)]()
+### a) [Predicting heart disease (SVM, LogisticRegression, RandomForests)]()
    **Aim:** This notebook aims to predict whether a patient suffers from heart disease taking 14 attributes to determine the presence of heart disease.
 
 ### b) []()
