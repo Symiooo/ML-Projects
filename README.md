@@ -8,6 +8,8 @@
 ### b) [Classification Metrics](https://drive.google.com/file/d/1m_CcFbRJOQ_tytLIBpCUXSRtDWg2btjK/view?usp=sharing)
    **Aim:** Gaining some insight into a number of evaluation techniques used to understand how well various classification models are performing
 
+### c) [Model Optimization using GridSearchCV](https://drive.google.com/file/d/1eCx086bEAyCguidmvbrafzJf-NQ8vMsm/view?usp=sharing)
+   **Aim:** Exploring optimal hyperparameters combinations through exhaustive GridSearchCV-method
 ___________________________________
 
 ## (1) Classification (Supervised learning)
