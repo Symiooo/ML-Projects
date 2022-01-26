@@ -2,10 +2,10 @@
 
 ## Fundamentals
 
-### a) [Regression Metrics (DecisionTree, RandomForests, AdaBoosting, LinearRegression)](https://drive.google.com/file/d/1X3O4VanZDAyYu6TxphjrV9sXZpYcgRW5/view?usp=sharing)
+### a) [Regression Metrics](https://drive.google.com/file/d/1X3O4VanZDAyYu6TxphjrV9sXZpYcgRW5/view?usp=sharing)
    **Aim:** In order to gain a better understanding of the metrics used in regression settings, we will be looking at the Boston Housing dataset.
 
-### b) [Classification Metrics (NaiveBayes, RandomForests, BaggingClassifier, AdaBoosting, SVM)](https://drive.google.com/file/d/1m_CcFbRJOQ_tytLIBpCUXSRtDWg2btjK/view?usp=sharing)
+### b) [Classification Metrics](https://drive.google.com/file/d/1m_CcFbRJOQ_tytLIBpCUXSRtDWg2btjK/view?usp=sharing)
    **Aim:** Gaining some insight into a number of evaluation techniques used to understand how well various classification models are performing
 
 ___________________________________
