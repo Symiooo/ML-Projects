@@ -29,6 +29,7 @@ ___________________________________
 
 ### a) [Predicting the sale price of Bulldozers (RandomForest)](https://colab.research.google.com/drive/1hljVZVWnOUm40Xe6r353OtrtigObhU8Q?usp=sharing)
    **Aim:** Predict the future sale price of a bulldozer, given its characteristics and previous examples of how much similar bulldozers have been sold for.
+   
    **Kaggle-Score:** Top 8% (Rank 32 out of ~ 400 Teams)
 
 ### b) []()
